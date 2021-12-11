@@ -1,0 +1,7 @@
+I have used matlab for implementation
+
+A_dct.m - contain dct code (applied cosine transform)
+A_fft.m - contain fft code (applied fourier transform)
+A_dwt.m - contain dwt code (applied haar transform)
+
+newImg.jpeg - input image

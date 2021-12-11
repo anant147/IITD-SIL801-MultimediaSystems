@@ -1,0 +1,9 @@
+1. wm_schemes.py :-
+In this , function for visible watermarking, fragile invisible watermarking and robust invisible watermarking are implemented.
+Running command :- python wm_schemes.py
+After running this commad, the program ask for input for further working from the user. User have to enter desired input for further functioning.
+
+2. wm_recovery.py :-
+In this , function for recovery for fragile invisible watermarking and robust invisible watermarking are implemented.
+Running command :- python wm_schemes.py
+After running this commad, the program ask for input for further working from the user. User have to enter desired input for further functioning.
